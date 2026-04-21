@@ -1,6 +1,13 @@
 # Data Description
+
 # Roles and Responsibilities
+In order to manage my data well for my project this term, there are some data management roles that I will need to prioritize.  The first role is data collection/generation, then data organization, generating metadata, quality control, data analysis, software creation and maintenance, data preservation, and finally implementing a data management plan.
+
 # Data Standards and Metadata
+In my data collection/generation role, I will be gathering data from scholarly articles, reports, and case studies so that I can make my own dataset with up to 200 entries. When organizing my data I also plan on explicitly defining my dataset features, using consistent units, and dataset readability. Since Metadata is crucial to this project (and is a great way Navisworks can detect clashes that aren't structural, but out of scope for this project), I will be using many sources to obtain and draw conclusions from the dataframe. Quality control will be an important role in handling missing values, inconsistent units, and removing outliers from the data. Then, I will perform a data analysis by making data frames, comparing defined groups, analyzing correlations between variables, and developing meaningful statistical values. In order to accomplish this, I will using python, MATLAB and R.
+
 # Storage and Security
-# Access and Data Sharing
-# Archiving and Preservation
+Since my data will be constructed from multiple sources, I will not need to follow any formal data management requirements in this project (it will solely be my constructed dataset).  Once I have collected all of my data, it will all be stored in one .csv file, which I will have stored in my project folder.  I will also store the sources I used to construct the data within the project folder.  Most likely, I will have a feature in my .csv file labeling which source I obtained that row of data.  Since I will be using code (R) to create data frames, I will also need to store my source code in the project folder as well.  To make sure this is as organized as possible, I will create three folders inside of the project folder: code, data, and metadata, where each respective file will be stored.
+
+# Access, Data Sharing, Archiving and Preservation
+A backup strategy that I was considering for this project is adding all of my project files to Box.  This is because when I leave, my advisor can still obtain my data for future use.  This is something I will need to be cautious of anytime I create or add a new file to my research, that I immediately add it to Box.  I also plan to follow the 3-2-1 rule by making sure my most important files have three copies, in at least two different file types, as well as having one copy offsite.  
